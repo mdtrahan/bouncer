@@ -58,7 +58,7 @@ function buildGameCanvas(){
 	btnStart.x=canvasW/2;
 	btnStart.y=canvasH/100*87;
 	
-	var _frameW=190;
+	var _frameW=192;
 	var _frameH=260;
 	var _frame = {"regX": (_frameW/2), "regY": (_frameH/2), "height": _frameH, "count": 8, "width": _frameW};
 	var _animations = {"left": 0,
